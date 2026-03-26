@@ -13,10 +13,6 @@
   <a href="https://www.youtube.com/@LinXuMoney">
     <img src="https://img.shields.io/badge/YouTube-@LinXuMoney-FF0000?style=flat&logo=youtube" />
   </a>
-  &nbsp;
-  <a href="https://github.com/linxumoney?tab=stars">
-    <img src="https://img.shields.io/github/stars/linxumoney?style=flat&label=⭐ Stars" />
-  </a>
 </p>
 
 ---
@@ -26,6 +22,7 @@
 | 项目 | 简介 | Stars |
 |------|------|-------|
 | [🔥 hotspot-radar](https://github.com/linxumoney/hotspot-radar) | 每日热搜雷达 — 微博/百度热搜抓取 + SEO关键词评分，公众号选题神器 | [![Stars](https://img.shields.io/github/stars/linxumoney/hotspot-radar?style=flat)](https://github.com/linxumoney/hotspot-radar) |
+| [🧠 wisdom-council](https://github.com/linxumoney/wisdom-council) | 智者议会 — 巴菲特×芒格×稻盛×Naval×达里奥×蒂尔，7位顶级思想家同台辩论你的问题 | [![Stars](https://img.shields.io/github/stars/linxumoney/wisdom-council?style=flat)](https://github.com/linxumoney/wisdom-council) |
 
 > 更多工具持续更新中...
 
@@ -38,7 +35,7 @@
 这些工具帮我做到：
 - 每天 30 秒选出今天该写什么
 - 一句话生成完整公众号文章并推送草稿
-- 自动生成视频封面和内容
+- 向世界上最有智慧的人提问，让他们替你思考
 
 **我决定把它们全部开源。**
 
