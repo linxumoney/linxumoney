@@ -24,7 +24,8 @@
 | [🔥 hotspot-radar](https://github.com/linxumoney/hotspot-radar) | 每日热搜雷达 — 微博/百度热搜抓取 + SEO关键词评分 | [![Stars](https://img.shields.io/github/stars/linxumoney/hotspot-radar?style=flat)](https://github.com/linxumoney/hotspot-radar) |
 | [🧠 wisdom-council](https://github.com/linxumoney/wisdom-council) | 智者议会 — 巴菲特×芒格×稻盛×Naval×达里奥×蒂尔同台辩论 | [![Stars](https://img.shields.io/github/stars/linxumoney/wisdom-council?style=flat)](https://github.com/linxumoney/wisdom-council) |
 | [🤖 ai-seo](https://github.com/linxumoney/ai-seo) | AI-SEO — 让网站被 ChatGPT/Perplexity/Claude 引用 | [![Stars](https://img.shields.io/github/stars/linxumoney/ai-seo?style=flat)](https://github.com/linxumoney/ai-seo) |
-| [🚀 google-ads-pilot](https://github.com/linxumoney/google-ads-pilot) | Google Ads AI 副驾驶 — 搜索词评估、否定词、预算优化、账户诊断 | [![Stars](https://img.shields.io/github/stars/linxumoney/google-ads-pilot?style=flat)](https://github.com/linxumoney/google-ads-pilot) |
+| [🚀 google-ads-pilot](https://github.com/linxumoney/google-ads-pilot) | Google Ads AI 副驾驶 — 搜索词评估、否定词、预算优化 | [![Stars](https://img.shields.io/github/stars/linxumoney/google-ads-pilot?style=flat)](https://github.com/linxumoney/google-ads-pilot) |
+| [📖 biz-fiction](https://github.com/linxumoney/biz-fiction) | 商业叙事写作引擎 — 用写小说的方式写商业故事 | [![Stars](https://img.shields.io/github/stars/linxumoney/biz-fiction?style=flat)](https://github.com/linxumoney/biz-fiction) |
 
 > 更多工具持续更新中...
 
