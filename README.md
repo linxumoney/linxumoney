@@ -23,6 +23,7 @@
 |------|------|-------|
 | [🔥 hotspot-radar](https://github.com/linxumoney/hotspot-radar) | 每日热搜雷达 — 微博/百度热搜抓取 + SEO关键词评分，公众号选题神器 | [![Stars](https://img.shields.io/github/stars/linxumoney/hotspot-radar?style=flat)](https://github.com/linxumoney/hotspot-radar) |
 | [🧠 wisdom-council](https://github.com/linxumoney/wisdom-council) | 智者议会 — 巴菲特×芒格×稻盛×Naval×达里奥×蒂尔，7位顶级思想家同台辩论你的问题 | [![Stars](https://img.shields.io/github/stars/linxumoney/wisdom-council?style=flat)](https://github.com/linxumoney/wisdom-council) |
+| [🤖 ai-seo](https://github.com/linxumoney/ai-seo) | AI-SEO — 让网站被 ChatGPT/Perplexity/Claude 引用的优化工具 | [![Stars](https://img.shields.io/github/stars/linxumoney/ai-seo?style=flat)](https://github.com/linxumoney/ai-seo) |
 
 > 更多工具持续更新中...
 
@@ -34,12 +35,10 @@
 
 这些工具帮我做到：
 - 每天 30 秒选出今天该写什么
-- 一句话生成完整公众号文章并推送草稿
 - 向世界上最有智慧的人提问，让他们替你思考
+- 让你的网站在 AI 搜索中被引用，获取 AI 时代的流量
 
 **我决定把它们全部开源。**
-
-如果你也在做 AI 内容创作，欢迎 Star 关注，一起搞。
 
 ---
 
