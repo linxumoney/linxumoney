@@ -26,6 +26,7 @@
 | [🤖 ai-seo](https://github.com/linxumoney/ai-seo) | AI-SEO — 让网站被 ChatGPT/Perplexity/Claude 引用 | [![Stars](https://img.shields.io/github/stars/linxumoney/ai-seo?style=flat)](https://github.com/linxumoney/ai-seo) |
 | [🚀 google-ads-pilot](https://github.com/linxumoney/google-ads-pilot) | Google Ads AI 副驾驶 — 搜索词评估、否定词、预算优化 | [![Stars](https://img.shields.io/github/stars/linxumoney/google-ads-pilot?style=flat)](https://github.com/linxumoney/google-ads-pilot) |
 | [📖 biz-fiction](https://github.com/linxumoney/biz-fiction) | 商业叙事写作引擎 — 用写小说的方式写商业故事 | [![Stars](https://img.shields.io/github/stars/linxumoney/biz-fiction?style=flat)](https://github.com/linxumoney/biz-fiction) |
+| [📣 cn-ads-skills](https://github.com/linxumoney/cn-ads-skills) | 中国市场广告投放技能库 — 巨量/腾讯/小红书/私域漏斗 AI Agent 技能 | [![Stars](https://img.shields.io/github/stars/linxumoney/cn-ads-skills?style=flat)](https://github.com/linxumoney/cn-ads-skills) |
 
 > 更多工具持续更新中...
 
