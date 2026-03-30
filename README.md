@@ -28,6 +28,8 @@
 | [📖 biz-fiction](https://github.com/linxumoney/biz-fiction) | 商业叙事写作引擎 — 用写小说的方式写商业故事 | [![Stars](https://img.shields.io/github/stars/linxumoney/biz-fiction?style=flat)](https://github.com/linxumoney/biz-fiction) |
 | [📣 cn-ads-skills](https://github.com/linxumoney/cn-ads-skills) | 中国市场广告投放技能库 — 巨量/腾讯/小红书/私域漏斗 AI Agent 技能 | [![Stars](https://img.shields.io/github/stars/linxumoney/cn-ads-skills?style=flat)](https://github.com/linxumoney/cn-ads-skills) |
 
+| [🏄 ai-navigator-2026](https://github.com/linxumoney/ai-navigator-2026) | 生财有术 AI 航海家大会 2026 知识库 — 11位嘉宾精华拆解（道法术器）+ 逐字稿 + 夜话问答 | [![Stars](https://img.shields.io/github/stars/linxumoney/ai-navigator-2026?style=flat)](https://github.com/linxumoney/ai-navigator-2026) |
+
 > 更多工具持续更新中...
 
 ---
