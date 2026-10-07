@@ -60,3 +60,7 @@
 
 <sub>欢迎 Star、试用，也欢迎带着真实问题提 Issue。</sub>
 
+## 商业授权
+
+个人学习、研究、测试和非商业使用可以。商业使用请先联系 **linxu.money@gmail.com** 获得授权，详见 [COMMERCIAL-LICENSING.md](COMMERCIAL-LICENSING.md)。
+
