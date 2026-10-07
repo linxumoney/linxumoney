@@ -1,40 +1,62 @@
-<h1 align="center">林序聊AI · 开源计划</h1>
+<div align="center">
 
-<p align="center">
-  <b>AI 内容创作工具开源计划，持续释放生产力</b><br/>
-  把我在做 AI 内容创作过程中沉淀的工具，一个一个开源出来。
-</p>
+# 林序聊 AI
 
-<p align="center">
-  <a href="https://x.com/linxumoney">
-    <img src="https://img.shields.io/badge/X-@linxumoney-000000?style=flat&logo=x" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@LinXuMoney">
-    <img src="https://img.shields.io/badge/YouTube-@LinXuMoney-FF0000?style=flat&logo=youtube" />
-  </a>
-</p>
+### 用技术理解商业，用 AI 放大杠杆
+
+前大厂技术专家 · 8 年技术与商业实战 · All in AI
+
+[![Open Source Skills](https://img.shields.io/badge/Open%20Source-Skills-123d30?style=for-the-badge&logo=github&logoColor=white)](https://linxumoney.github.io/)
+[![YouTube](https://img.shields.io/badge/YouTube-林序聊AI-ff0033?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LinXuMoney)
+[![Website](https://img.shields.io/badge/Website-开源技能库-a8e8b7?style=for-the-badge&logo=googlechrome&logoColor=123d30)](https://linxumoney.github.io/)
+
+</div>
 
 ---
 
-## 🚀 开源项目
+我把真实工作里沉淀的流程、判断和工具，整理成 AI 可以直接使用的 Skills。
 
-| 项目 | 简介 | Stars |
-|------|------|-------|
-| [🔥 hotspot-radar](https://github.com/linxumoney/hotspot-radar) | 每日热搜雷达 — 微博/百度热搜抓取 + SEO关键词评分 | [![Stars](https://img.shields.io/github/stars/linxumoney/hotspot-radar?style=flat)](https://github.com/linxumoney/hotspot-radar) |
-| [🧠 wisdom-council](https://github.com/linxumoney/wisdom-council) | 智者议会 — 巴菲特×芒格×稻盛×Naval×达里奥×蒂尔同台辩论 | [![Stars](https://img.shields.io/github/stars/linxumoney/wisdom-council?style=flat)](https://github.com/linxumoney/wisdom-council) |
-| [🤖 ai-seo](https://github.com/linxumoney/ai-seo) | AI-SEO — 让网站被 ChatGPT/Perplexity/Claude 引用 | [![Stars](https://img.shields.io/github/stars/linxumoney/ai-seo?style=flat)](https://github.com/linxumoney/ai-seo) |
-| [🚀 google-ads-pilot](https://github.com/linxumoney/google-ads-pilot) | Google Ads AI 副驾驶 — 搜索词评估、否定词、预算优化 | [![Stars](https://img.shields.io/github/stars/linxumoney/google-ads-pilot?style=flat)](https://github.com/linxumoney/google-ads-pilot) |
-| [📖 biz-fiction](https://github.com/linxumoney/biz-fiction) | 商业叙事写作引擎 — 用写小说的方式写商业故事 | [![Stars](https://img.shields.io/github/stars/linxumoney/biz-fiction?style=flat)](https://github.com/linxumoney/biz-fiction) |
-| [📣 cn-ads-skills](https://github.com/linxumoney/cn-ads-skills) | 中国市场广告投放技能库 — 巨量/腾讯/小红书/私域漏斗 AI Agent 技能 | [![Stars](https://img.shields.io/github/stars/linxumoney/cn-ads-skills?style=flat)](https://github.com/linxumoney/cn-ads-skills) |
+这里的每个项目都从一个具体任务出发：
 
-| [🏄 ai-navigator-2026](https://github.com/linxumoney/ai-navigator-2026) | 生财有术 AI 航海家大会 2026 知识库 — 11位嘉宾精华拆解（道法术器）+ 逐字稿 + 夜话问答 | [![Stars](https://img.shields.io/github/stars/linxumoney/ai-navigator-2026?style=flat)](https://github.com/linxumoney/ai-navigator-2026) |
+- 内容创作：找到选题、写出有声音的内容、搭建演示叙事
+- 营销增长：理解用户、写广告、做投放和增长实验
+- 产品开发：把模糊想法变成产品决策与可验收的需求
+- 研究决策：核验引用、读财报、追踪趋势和市场信号
+- 个人成长：岗位匹配、沟通表达与个人工作流
 
-> 更多工具持续更新中...
+## 从这里开始
 
----
+| 你现在想解决的问题 | 推荐项目 |
+| --- | --- |
+| 今天写什么、怎么写得更像自己 | [hotspot-radar](https://github.com/linxumoney/hotspot-radar) · [voice-preserving-editor](https://github.com/linxumoney/voice-preserving-editor) |
+| 怎么把商业故事和 PPT 讲清楚 | [biz-fiction](https://github.com/linxumoney/biz-fiction) · [slide-story-architect](https://github.com/linxumoney/slide-story-architect) |
+| 怎么让 AI 帮我做营销和增长 | [cn-ads-skills](https://github.com/linxumoney/cn-ads-skills) · [google-ads-pilot](https://github.com/linxumoney/google-ads-pilot) · [growth-experiment-planner](https://github.com/linxumoney/growth-experiment-planner) |
+| 怎么做更可靠的研究和判断 | [ai-seo](https://github.com/linxumoney/ai-seo) · [fresh-signal-researcher](https://github.com/linxumoney/fresh-signal-researcher) · [research-citation-auditor](https://github.com/linxumoney/research-citation-auditor) |
+| 怎么把一个想法变成能做的产品 | [product-brief-builder](https://github.com/linxumoney/product-brief-builder) · [ui-critique-coach](https://github.com/linxumoney/ui-critique-coach) |
 
-## 📡 找到我
+## 公开作品
 
-- **X (Twitter)：** [@linxumoney](https://x.com/linxumoney)
-- **YouTube：** [@LinXuMoney](https://www.youtube.com/@LinXuMoney)
+目前公开维护 **18 个项目、31 个 Skill 文件**。完整目录、使用说明和视频实战：
+
+<div align="center">
+
+### [→ 打开林序聊 AI 开源技能库](https://linxumoney.github.io/)
+
+</div>
+
+## 我的工作方式
+
+```
+真实问题 → AI 实验 → 可复用 Skill → 公开案例 → 持续迭代
+```
+
+我关心的不是把工具堆在一起，而是它能不能让一个真实任务更快、更清楚，或者少走一点弯路。
+
+## 关注我
+
+- 📺 [YouTube：林序聊AI](https://www.youtube.com/@LinXuMoney) —— AI、商业与真实工作流
+- 𝕏 [X：@linxumoney](https://x.com/linxumoney)
+- 🌐 [开源技能库](https://linxumoney.github.io/)
+
+<sub>欢迎 Star、试用，也欢迎带着真实问题提 Issue。</sub>
+
